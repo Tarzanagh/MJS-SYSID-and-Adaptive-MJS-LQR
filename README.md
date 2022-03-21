@@ -10,4 +10,4 @@ For more details, please see
 
 
 
-To reproduce the experiments, execute LQR_Run_Infnthrzn_MJS.m and ADA_MJS_LQR.m
+To reproduce the experiments, execute LQR_Run_Infnthrzn_MJS.m and ADA_MJS_LQR.m 
