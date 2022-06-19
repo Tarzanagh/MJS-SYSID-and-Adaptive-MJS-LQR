@@ -1,4 +1,4 @@
-# AdaptiveMJS
+# MJS-SYSID and Adaptive MJS-LQR
 The AdaptiveMJS is a MATLAB package of a collection of system identification and adaptive control of Markov jump linear system (MJS) algorithms. 
 This package considers the problem of controlling an unknown MJS to optimize a quadratic objective.
 
